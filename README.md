@@ -13,5 +13,10 @@ The application consists of the following modules:
 Login
 Registration
 Contact
-Membership
-  
+Admin
+
+## Setup & Execution
+Clone the repository to your local machine.
+Import the project into your preferred Java IDE.
+Configure the database connection properties in application.properties.
+Run the application.
