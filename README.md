@@ -3,8 +3,8 @@ This REST API is designed for a Gym Management System application. It performs a
 Technology Stack
 ### The application is built using the following technologies:
 
-Java
-Spring Framework
-Spring Boot
-Spring Data JPA
-MySQL
+-Java
+-Spring Framework
+-Spring Boot
+-Spring Data JPA
+-MySQL
