@@ -10,10 +10,10 @@ Technology Stack
 ## Application Modules
 The application consists of the following modules:
 
-Login
-Registration
-Contact
-Admin
+* Login
+* Registration
+* Contact
+* Admin
 
 ## Setup & Execution
 - Clone the repository to your local machine.
